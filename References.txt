@@ -1,0 +1,5 @@
+https://grabcad.com/library/arduino-ethernet-shield-2-1
+https://grabcad.com/library/arduino-uno-r3-1
+https://grabcad.com/library/tsl2561-breakout-board-1
+https://grabcad.com/library/dht22-module-1
+https://grabcad.com/library/dht22-decora-switch-wall-plate-insert-1
